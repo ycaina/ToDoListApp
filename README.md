@@ -11,7 +11,7 @@ App simples de lista de tarefas em React Native + TypeScript.
 
 ## ⚙️ Instalação
 ```bash
-git clone https://github.com/ycaina/todolist.git
+git clone https://github.com/ycaina/ToDoListApp
 cd todolist
 npm install
 npx react-native run-android
