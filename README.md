@@ -45,7 +45,7 @@ npm install
 
 3️⃣ Executar no Android
 
-Certifique-se de que um emulador esteja rodando ou um dispositivo conectado via USB:
+Certifique-se de que um emulador esteja rodando:
 
 npx react-native run-android
 
