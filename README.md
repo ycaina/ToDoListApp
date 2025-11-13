@@ -31,28 +31,6 @@ Este projeto foi criado como parte de um teste técnico para vaga de Desenvolved
 
 📱 Interface moderna, intuitiva e responsiva
 
-# 🧩 Estrutura do Projeto
-
-ToDoListApp
-├── src
-│   ├── components
-│   │   ├── Header/
-│   │   ├── TaskInput/
-│   │   └── TaskItem/
-│   ├── hooks/
-│   │   └── useTasks.ts
-│   ├── screens/
-│   │   └── HomeScreen.tsx
-│   ├── storage/
-│   │   └── taskStorage.ts
-│   ├── types/
-│   │   └── Task.ts
-│   └── App.tsx
-├── __tests__/            # pasta reservada para testes
-├── android/              # build Android
-├── ios/                  # build iOS
-└── README.md
-
 # ⚙️ Instalação e Execução
 
 1️⃣ Clonar o repositório
